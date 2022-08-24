@@ -18,6 +18,20 @@ Para que sirve cada comando:
  3. Se utilizó doble asterisco
  4. Se utilizó doble guión bajo
 
+ # Imagenes 
+ ![Logo Github](https://www.logo.wine/logo/GitHub)
+
+ # Tablas
+
+ | Nombre | Apellido |     Cédula |
+ |------- |----------|    --------|
+ | Alison | Cumbajin | 1728166800 |
+
+ # Lineas divisoras
+
+ 
+ 
+
 
 
 
